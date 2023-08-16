@@ -1,0 +1,10 @@
+- If we map all data points into quadrants, we will get positive value on quadrant 1 and 3 and we will get negative value on quadrant 2 and 4
+- Slope describes how much y change with respective to y
+- Intercept describes when the point crosses the y axis
+- We have an assumption of bell shape distribution on y error regarding to regression line
+- Mean squared error use to calculate error in regression prediction as compared to actual y value in the line
+- We can visualize assumptions by plotting residuals against x values
+- E is normally distributed if the value that are near zero line are in high frequency.
+- E has mean of zero if the points that are in above and below the zero line got the same frequency
+- E has constant variance if errors are symmetrically distributed in above and below the zero line
+- 

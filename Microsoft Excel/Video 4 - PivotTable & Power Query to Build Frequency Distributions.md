@@ -1,0 +1,3 @@
+- If we need to transform data before we analyze it, we should consider using power query.
+- Be careful using pivot table. If the pivot table overlaps other pivot table, it will show errors.
+- The upper value labels on decimal when using pivot table will be showed, therefore it will be ambigous so we need to change it.

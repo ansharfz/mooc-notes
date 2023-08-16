@@ -1,0 +1,1 @@
+- `HAVING` is like `WHERE` clause, which is filtering column, but performed on aggregated columns.

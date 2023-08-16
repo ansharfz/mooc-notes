@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "1cb10ec6e3488241",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c45b862e235dcf2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Naturlal Language Processing UC Berkeley/Classification part 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb08fd6c46386561",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61f0bdc3428ff3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2770d1c11e7301b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72a5f21bfe248e4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70676e745c788147",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adfa1c6a606a3d2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e5347d84eea7ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b7d78467578e003",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Naturlal Language Processing UC Berkeley/Classification part 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71412828666b8023",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Naturlal Language Processing UC Berkeley/Classification part 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3a2242d04059e4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c554842303718c73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Naturlal Language Processing UC Berkeley/Classification part 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8c45b862e235dcf2",
+  "lastOpenFiles": [
+    "Naturlal Language Processing UC Berkeley/Classification part 1.md"
+  ]
+}

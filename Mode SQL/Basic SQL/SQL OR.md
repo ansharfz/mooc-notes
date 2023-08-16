@@ -1,0 +1,2 @@
+- OR is used whenever we want to query data that satisfy one of the two condition that we give.
+- 

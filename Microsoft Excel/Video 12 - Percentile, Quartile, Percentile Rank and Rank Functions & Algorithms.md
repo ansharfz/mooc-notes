@@ -1,0 +1,4 @@
+- percentile.exc is used when the quartile number is not included. Whereas, percentile.inc is used when the quartile number is included.
+- percentrank can be used to know how many percentage of numbers are below the k value
+- rank.avg used to find the rank of inquired value
+- let is used when we have repeating variables

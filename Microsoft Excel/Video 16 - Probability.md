@@ -1,0 +1,6 @@
+- Only one of the possible outcomes can occur in random experiment
+- Sample space is a set for all possible experimental outcome
+- Use SEQUENCE to create a set of sorted numbers
+- In permutation, order does matter. In combination order matters
+- You can't use spill array in a excel table
+- 

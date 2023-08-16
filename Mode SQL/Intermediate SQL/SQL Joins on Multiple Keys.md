@@ -1,0 +1,3 @@
+- Joining with multiple keys can speed up retrieval even if the result is the same with one key
+- Multiple keys allows increased accuracy of the data we need to query.
+- 

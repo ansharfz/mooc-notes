@@ -1,0 +1,3 @@
+- Geometric means used to calculate average growth (exponential) in finance.
+- We must check that the formula were applied from beginning to end
+- 

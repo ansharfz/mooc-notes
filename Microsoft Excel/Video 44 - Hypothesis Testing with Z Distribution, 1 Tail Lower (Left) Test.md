@@ -1,0 +1,1 @@
+- When we have population standard deviation, we generally dont need to calculate sample standard deviation

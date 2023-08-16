@@ -1,0 +1,2 @@
+- We can use normal distribution on proportion if  number of sample * proportion > 5 and (1- number of sample) * proportion > 5 
+- 

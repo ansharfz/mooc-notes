@@ -1,0 +1,8 @@
+- Population distribution will be different from sample distribution. Sample distribution will look more like bell shaped if we take enough samples.
+- If the population is symmetrical but not normal, the sample distribution will converge around n > 10.
+- If the population is thick tailed or skewd, the sample distribution will converge around n > 30.
+- If the population is heavily skewed, the sample distribution will converge around n > 50.
+- Correction factor might not be used on calculating standard error of sampling distribution when number of sample is small enough or population is large.
+- If the population mean is known then we can use hypothesis testing or confidence interval. But if the population mean is not known, then we can use confidence interval
+- z distribution is used when standard deviation is known as a model of sampling distribution of xbar
+- t distribution is used when standard deviation is NOT known as a model of sampling distribution of xbar

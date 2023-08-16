@@ -1,0 +1,3 @@
+- MIN query returns the minimum value within a column
+- MAX query returns the maximum value within a column
+- Both MIN and MAX can be utilized on numerical and non-numerical data

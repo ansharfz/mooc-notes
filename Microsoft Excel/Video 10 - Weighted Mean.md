@@ -1,0 +1,2 @@
+- Weighted Mean when using frequency is faster than mean calculating.
+- 

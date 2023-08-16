@@ -1,0 +1,5 @@
+- `COUNT` allows user to count the number of rows in the column
+- `NULL` values will not be counted on `COUNT` function
+- `COUNT` could be used both in numerical and non-numerical values.
+- We should name our column to make it easier for anyone to understand our work.
+- Only use double quotes on naming aliases.

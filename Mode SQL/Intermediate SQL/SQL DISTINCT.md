@@ -1,0 +1,3 @@
+- `DISTINCT` allows user to filter duplicate value within queried data.
+- `DISTINCT` can be used inside and outside of aggregation function
+- We should not use `DISTINCT` when using `MIN` or `MAX` function because it does not take into account duplicate value

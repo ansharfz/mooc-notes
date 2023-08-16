@@ -1,0 +1,5 @@
+- Outer joins are joins that returns both matched and unmatched value depending on the joins specified like:
+	- `LEFT JOIN` or `OUTER LEFT JOIN` are joins that return matched value on right and both matched and unmatched value on the left
+	- `RIGHT JOIN` or `OUTER RIGHT JOIN` are joins that return matched value on left and both matched and unmatched value on the right
+	- `FULL OUTER JOIN` are joins that return both unmatched and matched value on right and both matched and unmatched value on the left
+- 

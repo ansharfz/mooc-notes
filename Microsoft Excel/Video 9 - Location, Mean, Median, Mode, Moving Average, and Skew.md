@@ -1,0 +1,4 @@
+- Mean are good when there are no extreme values whereas median are good when there are extreme values.
+- Mode are good for nominal and categorical data
+- If there are big extreme value, mean will be dragged above the median and vice versa.
+- Moving average will smooth out numbers and show better view of the trend

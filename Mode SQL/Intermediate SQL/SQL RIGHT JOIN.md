@@ -1,0 +1,2 @@
+- `RIGHT JOIN` is rarely used because `LEFT JOIN` can achieve the same thing with the table positions swapped in `FROM` statement and `ON` statement.
+- 

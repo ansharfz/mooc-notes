@@ -1,0 +1,2 @@
+- `ON` clause statement allows additional conditional statement
+- Conditional statement added in `WHERE` clause and  conditional statement added in `ON` clause doesn't always produce the same result.

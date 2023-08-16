@@ -1,0 +1,2 @@
+- Bayes theorem is used when we want to modify prior probability into posterior probability when we have new information.
+- 

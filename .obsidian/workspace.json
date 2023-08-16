@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "1cb10ec6e3488241",
+    "type": "split",
+    "children": [
+      {
+        "id": "30284bd038b57016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc60beb02abc6868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mode SQL/Intermediate SQL/SQL HAVING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb08fd6c46386561",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61f0bdc3428ff3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2770d1c11e7301b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72a5f21bfe248e4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70676e745c788147",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "01a6ee6e26aca93e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adfa1c6a606a3d2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e5347d84eea7ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b7d78467578e003",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mode SQL/Intermediate SQL/SQL HAVING.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71412828666b8023",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mode SQL/Intermediate SQL/SQL HAVING.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3a2242d04059e4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c554842303718c73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mode SQL/Intermediate SQL/SQL HAVING.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc60beb02abc6868",
+  "lastOpenFiles": [
+    "Mode SQL/Intermediate SQL/SQL GROUP BY.md",
+    "Mode SQL/Intermediate SQL/SQL FULL JOIN.md",
+    "Mode SQL/Intermediate SQL/SQL DISTINCT.md",
+    "Mode SQL/Intermediate SQL/SQL COUNT.md",
+    "Mode SQL/Intermediate SQL/SQL Clauses Ordering.md",
+    "Mode SQL/Intermediate SQL/SQL CASE.md",
+    "Mode SQL/Intermediate SQL/SQL AVG.md",
+    "Mode SQL/Intermediate SQL/SQL Aggregate Function.md",
+    "Mode SQL/Intermediate SQL/SQL INNER JOIN.md",
+    "Mode SQL/Intermediate SQL/SQL Joins.md",
+    "Mode SQL/Intermediate SQL/SQL Joins on Multiple Keys.md",
+    "Mode SQL/Intermediate SQL/SQL Joins Using WHERE or ON.md",
+    "Mode SQL/Intermediate SQL/SQL Joins with Comparison Operators.md",
+    "Mode SQL/Intermediate SQL/SQL LEFT JOIN.md",
+    "Mode SQL/Intermediate SQL/SQL MIN MAX.md",
+    "Mode SQL/Intermediate SQL/SQL Outer Joins.md",
+    "Mode SQL/Intermediate SQL/SQL RIGHT JOIN.md",
+    "Mode SQL/Intermediate SQL/SQL Self Joins.md",
+    "Mode SQL/Intermediate SQL/SQL SUM.md",
+    "Mode SQL/Intermediate SQL/SQL UNION.md",
+    "Mode SQL/Intermediate SQL/SQL HAVING.md",
+    "Mode SQL/Basic SQL/SQL WHERE Clause.md",
+    "Mode SQL/Basic SQL/SQL SELECT.md",
+    "Mode SQL/Basic SQL/SQL ORDER BY.md",
+    "Mode SQL/Basic SQL/SQL OR.md",
+    "Mode SQL/Basic SQL/SQL NOT.md",
+    "Mode SQL/Intermediate SQL",
+    "Mode SQL/Basic SQL",
+    "Mode SQL",
+    "Untitled.canvas"
+  ]
+}

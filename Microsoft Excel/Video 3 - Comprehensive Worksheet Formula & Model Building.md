@@ -1,0 +1,3 @@
+- Formula do not use the formatted number. It uses the underlying value instead
+- If there is commas,  it might change calculations so be careful.
+- Dynamic spill array can boost productivity by applying same formula with choosing all the rows needed and we dont need copying formulas

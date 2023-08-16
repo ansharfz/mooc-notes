@@ -1,0 +1,3 @@
+- `SELECT`, `FROM`, `WHERE`. This is the ordering of SQL Queries.
+- SQL can order one column of the data without messing the structure of the data. This can't be done in Excel.
+- 

@@ -1,0 +1,7 @@
+- z-score measure a particular value distance from  the mean in unit of standard deviation
+- Bell shaped distribution is another phrase for gaussian distribution
+- Area under the curve of a bell shape function is a 100% probability
+- If there are value than the lower and upper limit of a 99% curve, then something is happening (outliers)
+- Chebysev formula counts percentage of the data value within a specific range given a standard deviation
+- We should really consider distribution when choosing empirical rule or chebyshev rule
+- If the data is highly clustered on a value, then empirical rule proportions would be higher value than chebyshev rule proportion.

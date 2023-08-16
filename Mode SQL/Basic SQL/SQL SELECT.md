@@ -1,0 +1,5 @@
+- SQL SELECT query is used to view which column that we want
+- SQL FROM query is used to specify the table that we want to see.
+- Star sign (\*) can be used to select all of the column in the table
+- Capitalized query is not necessary but it's by convention that we should do it.
+- AS keyword is used to rename column

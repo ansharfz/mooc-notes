@@ -1,0 +1,2 @@
+- We need to consider if the events is mutually exclusive or not
+- 

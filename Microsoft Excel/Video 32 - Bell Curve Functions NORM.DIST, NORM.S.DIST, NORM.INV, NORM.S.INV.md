@@ -1,0 +1,3 @@
+- You have bell shape distribution if median = mean = modes
+- Standard deviation will determine the height of the distribution. If the standard deviation is bigger, then distribution tends to be flatter
+- Mean will move the center of the distribution

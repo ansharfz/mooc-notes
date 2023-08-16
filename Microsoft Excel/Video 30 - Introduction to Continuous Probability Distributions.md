@@ -1,0 +1,3 @@
+- Continous probability distributions is probability of events that falls between intervals (does not have any gaps between events/number)
+- The probability in continous probability distributions is always between two or more numbers
+- Probability mass function in continous distribution is not probability of a number happening but rather it's the height of particular value.

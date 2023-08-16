@@ -1,0 +1,1 @@
+- Aggregate function is used to perform calculation on entire column

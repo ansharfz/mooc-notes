@@ -1,0 +1,4 @@
+- Poisson distribution gives probability of an event happening given an average probability of that event in an interval of time and space.
+- If the probability of an event is known exactly, then we should use binomial distribution.
+- Poisson distribution assumes that standard deviation and mean are the same / close enough
+- 

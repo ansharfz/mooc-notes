@@ -1,0 +1,2 @@
+- NOT is used whenever we want to negate the conditional statement.
+- NOT generally used with LIKE and with IS NULL

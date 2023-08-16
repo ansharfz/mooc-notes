@@ -1,0 +1,3 @@
+- INNER JOIN does not consider rows in both tables that didn't meet criteria in the `ON` statement.
+- Columns that are used for mapping is identical even if the columns should contain different data.
+- 

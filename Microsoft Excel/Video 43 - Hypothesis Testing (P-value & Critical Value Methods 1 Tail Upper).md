@@ -1,0 +1,4 @@
+- Hypothesis testing could be used to check whether statistical statements about population is true or not
+- Type I error happened if we reject H0 but H0 is true
+- Type II error happened if H0 were false but we didn't reject H0
+- 

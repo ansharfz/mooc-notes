@@ -1,0 +1,2 @@
+- Logical operators enables us to query the data with multiple conditions
+-

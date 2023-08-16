@@ -1,0 +1,4 @@
+- SUM is used to calculate total value of the column specified.
+- SUM can only be used in numerical data.
+- Aggregator only compute values within one column
+- 

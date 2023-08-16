@@ -1,0 +1,3 @@
+- Conditional probability is a probability of an event given a related event has occured
+- When we are calculating conditional probability, the sample space changes respective to the events that events
+- 

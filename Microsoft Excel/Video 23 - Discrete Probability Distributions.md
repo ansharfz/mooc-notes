@@ -1,0 +1,4 @@
+- Random variable is a numerical outcome from random experiment
+- Continous random variable may contain several numbers within an interval that have different gaps between them
+- If we have probability distribution, we can easily measure probability of an event.
+- 

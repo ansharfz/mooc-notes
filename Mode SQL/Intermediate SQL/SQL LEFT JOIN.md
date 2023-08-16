@@ -1,0 +1,1 @@
+- `LEFT JOIN` returns all rows that are matched or unmatched on the right table

@@ -1,0 +1,3 @@
+- Hypergeometric distribution is probability of getting successive events without replacement on every event
+- Every trial in hypergeometric distribution is dependent on the previous trial
+- 

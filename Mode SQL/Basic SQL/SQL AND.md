@@ -1,0 +1,2 @@
+- AND behaves by selecting rows that meet the requirement of the two conditions.
+- Other comparison operator can be use in conjunction with AND operator.

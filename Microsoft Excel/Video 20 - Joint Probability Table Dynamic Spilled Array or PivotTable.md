@@ -1,0 +1,2 @@
+- We can make joint probability table using array formula
+- 

@@ -1,0 +1,2 @@
+- We can use t -distribution when population is normally distributed
+- 

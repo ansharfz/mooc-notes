@@ -1,0 +1,4 @@
+- Mutually exclusive event is a collections of events that if one event occur the other wont occur
+- We should consider overlapping events in OR logical function
+- You can name multiple cells as a variable in the name box (top left)
+- 

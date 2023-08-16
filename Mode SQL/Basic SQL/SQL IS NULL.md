@@ -1,0 +1,2 @@
+- IS NULL clause checks whether columns specified contain NULL values or not
+- We can't use NULL values as operator value

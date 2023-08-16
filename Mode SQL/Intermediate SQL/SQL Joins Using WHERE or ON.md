@@ -1,0 +1,2 @@
+- We can filter tables before joining using conditional statement in the `ON` clause.
+- `WHERE` statements are executed after the tables were joined

@@ -1,0 +1,2 @@
+- `AVG` calculates the average value of the given column
+- `AVG` ignores `NULL` values. If we need to consider null values, we should change null(s) to 0.

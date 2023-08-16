@@ -1,0 +1,2 @@
+- We can use Confidence.norm(alpha, sigma, sample size) to calculate margin of error
+- 

@@ -1,0 +1,3 @@
+- Date are automatically grouped in Excel. If not, we should go to Options and check "Automatically grouped Date and Time"
+- We can create histogram with 0% gap bar charts
+- Negative skew (fewer frequency on the left) will pull mean down. Positive skew (fewer frequency on the right) will pull mean up.

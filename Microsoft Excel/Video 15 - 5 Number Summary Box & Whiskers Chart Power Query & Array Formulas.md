@@ -1,0 +1,3 @@
+- Whiskers in boxplot refers to bottom and top line
+- You need to unpivot data to make excel data analysis tools work
+- 

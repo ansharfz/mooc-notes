@@ -1,0 +1,2 @@
+- SQL LIMIT query is used to return a number tuple inquired after the LIMIT clause.
+- The usefulness of limit is when we have to view what the data looks like so that we don't query the whole database 

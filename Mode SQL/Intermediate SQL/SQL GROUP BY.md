@@ -1,0 +1,4 @@
+- `GROUP BY` allows separating data by groups.
+- Column numbers can be used as a substitute for `GROUP BY` column. We should do this only if column names are too long to write.
+- Aggregations are controlled by `ORDER BY` clause.
+- `LIMIT` clause will be used **AFTER** aggregations

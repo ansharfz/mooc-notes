@@ -1,0 +1,2 @@
+- Logical operators IN allows us to write a list as a comparison values rather than write conditions separately for each values.
+- IN can be used for both numerical and non-numerical values.

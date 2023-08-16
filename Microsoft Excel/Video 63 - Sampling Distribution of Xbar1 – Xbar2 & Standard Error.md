@@ -1,0 +1,2 @@
+- Difference in sampling distributions tend to be normally distributed
+- 

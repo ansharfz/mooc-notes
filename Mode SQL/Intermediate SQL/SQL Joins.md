@@ -1,0 +1,4 @@
+- Relational database means databases are related to each other and retain identifiers that are easy to combine
+- `ON` statement indicates how the tables would join
+- `JOIN` indicates which table to join with `FROM` table
+- 

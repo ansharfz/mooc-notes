@@ -1,0 +1,4 @@
+- We can use comparison operators like <, >, !, <>, to compare numerical and non-numerical data.
+- There is a different ordering for alphabets . For example. if we query month > "J" then words with extra alphabet (Ja, Jan, Janu) are treated as greater than J.
+- Arithmetic can be performed on columns. Columns that are being performed arithmetic is called '*derived column*'
+- Actual numbers can be used in operators with columns.
