@@ -1,0 +1,6 @@
+- There are four main type of data
+- String is stored as VARCHAR with limited length defined at table initiation.
+- Datetime is stored as TIMESTAMP with a specific format
+- Number is stored as DOUBLE up to 17 digit decimal precision
+- Boolean is stored as BOOLEAN with only True or False value.
+- We can use `CAST(column_name AS data_type)` or `column_name::data_type` to change data type in PostgreSQL

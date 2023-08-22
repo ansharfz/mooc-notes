@@ -1,0 +1,9 @@
+- Subqueries perform a query that is different from the final actual query
+- Subqueries or inner queries will perform first before the outer query
+- Subqueries must be named.
+- We should add indent to make readings easier.
+- In addition to `SELECT`, subqueries can be inserted into `WHERE`, `JOIN`/`ON`, or `CASE` (conditional logic)
+- Subquery will work in conditional logic if only one result is returned. We should add `IN` statement in the conditional logic before the subquery if we want to return more than one result.
+- Alias in conditional logic subquery is discouraged because the subquery treated as individual value, rather than a table.
+- It's better to filter out values first using subqueries before joining table
+- Union can be used as a subqueries in order to aggregate all of the needed tables.

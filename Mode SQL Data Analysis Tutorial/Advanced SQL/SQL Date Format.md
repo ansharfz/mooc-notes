@@ -1,0 +1,3 @@
+- We might run into problem with date format from excel. Date in databases is stored chronologically in the format of `YYYY-MM-DD`
+- `INTERVAL` function could be used as a mean to introduce intervals in arithmetic operations. Plain English like '1 month' or '1 second' is used as a definition
+- 

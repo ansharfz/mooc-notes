@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mode SQL/Intermediate SQL/SQL HAVING.md",
+                "file": "Mode SQL Data Analysis Tutorial/Advanced SQL/Writing Subqueries in SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mode SQL/Intermediate SQL/SQL HAVING.md",
+                "file": "Mode SQL Data Analysis Tutorial/Advanced SQL/Writing Subqueries in SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mode SQL/Intermediate SQL/SQL HAVING.md",
+                "file": "Mode SQL Data Analysis Tutorial/Advanced SQL/Writing Subqueries in SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mode SQL/Intermediate SQL/SQL HAVING.md"
+                "file": "Mode SQL Data Analysis Tutorial/Advanced SQL/Writing Subqueries in SQL.md"
               }
             }
           }
@@ -156,35 +156,36 @@
   },
   "active": "bc60beb02abc6868",
   "lastOpenFiles": [
-    "Mode SQL/Intermediate SQL/SQL GROUP BY.md",
-    "Mode SQL/Intermediate SQL/SQL FULL JOIN.md",
-    "Mode SQL/Intermediate SQL/SQL DISTINCT.md",
-    "Mode SQL/Intermediate SQL/SQL COUNT.md",
-    "Mode SQL/Intermediate SQL/SQL Clauses Ordering.md",
-    "Mode SQL/Intermediate SQL/SQL CASE.md",
-    "Mode SQL/Intermediate SQL/SQL AVG.md",
-    "Mode SQL/Intermediate SQL/SQL Aggregate Function.md",
-    "Mode SQL/Intermediate SQL/SQL INNER JOIN.md",
-    "Mode SQL/Intermediate SQL/SQL Joins.md",
-    "Mode SQL/Intermediate SQL/SQL Joins on Multiple Keys.md",
-    "Mode SQL/Intermediate SQL/SQL Joins Using WHERE or ON.md",
-    "Mode SQL/Intermediate SQL/SQL Joins with Comparison Operators.md",
-    "Mode SQL/Intermediate SQL/SQL LEFT JOIN.md",
-    "Mode SQL/Intermediate SQL/SQL MIN MAX.md",
-    "Mode SQL/Intermediate SQL/SQL Outer Joins.md",
-    "Mode SQL/Intermediate SQL/SQL RIGHT JOIN.md",
-    "Mode SQL/Intermediate SQL/SQL Self Joins.md",
-    "Mode SQL/Intermediate SQL/SQL SUM.md",
-    "Mode SQL/Intermediate SQL/SQL UNION.md",
-    "Mode SQL/Intermediate SQL/SQL HAVING.md",
-    "Mode SQL/Basic SQL/SQL WHERE Clause.md",
-    "Mode SQL/Basic SQL/SQL SELECT.md",
-    "Mode SQL/Basic SQL/SQL ORDER BY.md",
-    "Mode SQL/Basic SQL/SQL OR.md",
-    "Mode SQL/Basic SQL/SQL NOT.md",
-    "Mode SQL/Intermediate SQL",
-    "Mode SQL/Basic SQL",
-    "Mode SQL",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL Clauses Ordering.md",
+    "Mode SQL Data Analysis Tutorial/Advanced SQL/Writing Subqueries in SQL.md",
+    "Mode SQL Data Analysis Tutorial/Advanced SQL/Using SQL String Functions to Clean Data.md",
+    "Mode SQL Data Analysis Tutorial/Advanced SQL/Untitled.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL COUNT.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL CASE.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL AVG.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL Aggregate Function.md",
+    "Mode SQL Data Analysis Tutorial/Basic SQL/SQL WHERE Clause.md",
+    "Mode SQL Data Analysis Tutorial/Basic SQL/SQL SELECT.md",
+    "Mode SQL Data Analysis Tutorial/Basic SQL/SQL ORDER BY.md",
+    "Mode SQL Data Analysis Tutorial/Basic SQL/SQL OR.md",
+    "Mode SQL Data Analysis Tutorial/Basic SQL/SQL NOT.md",
+    "Mode SQL Data Analysis Tutorial/Basic SQL/SQL Logical Operators.md",
+    "Mode SQL Data Analysis Tutorial/Basic SQL/SQL LIMIT.md",
+    "Mode SQL Data Analysis Tutorial/Basic SQL/SQL Comparison Operators.md",
+    "Mode SQL Data Analysis Tutorial/Basic SQL/SQL BETWEEN.md",
+    "Mode SQL Data Analysis Tutorial/Advanced SQL/Data Wrangling with SQL.md",
+    "Mode SQL Data Analysis Tutorial/Advanced SQL/SQL Date Format.md",
+    "Mode SQL Data Analysis Tutorial/Advanced SQL/SQL Data Types.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL HAVING.md",
+    "Mode SQL Data Analysis Tutorial/Advanced SQL",
+    "Mode SQL/Untitled.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL GROUP BY.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL FULL JOIN.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL DISTINCT.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL/SQL INNER JOIN.md",
+    "Mode SQL Data Analysis Tutorial/Intermediate SQL",
+    "Mode SQL Data Analysis Tutorial/Basic SQL",
+    "Mode SQL Data Analysis Tutorial",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,3 @@
+- Data wrangling is a programmatical process that transform data into an easier format to deal with.
+- We need data wrangling because data is not always on a clean state.
+- 
